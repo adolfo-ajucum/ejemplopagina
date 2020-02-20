@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px; 
+    background-color: lightblue;
+}
+
+.page-content {
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
